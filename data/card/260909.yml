@@ -7,7 +7,7 @@ about:
   latestVersion: "0.10.5"
   latestRelease: "0.10.5"
   latestPrerelease: ""
-  collectedAt: 2026-09-09T05:53:46Z
+  collectedAt: 2026-09-09T20:12:47Z
 timeline:
   created: 2023-09-10
   lastCommit: 2026-09-08
@@ -15,9 +15,9 @@ timeline:
   lastRelease: 2026-08-03
   lastPrerelease: 
 popularity:
-  star: 25917
+  star: 25927
   watcher: 229
-  fork: 1591
+  fork: 1593
   release: 42
   contributor: 87
   pullRequest: 275
@@ -90,7 +90,7 @@ total:
   commit: 863
 ---
 path: /home/runner/.x-repo/github.com/Mozilla-Ocho/llamafile
-collectedAt: 2026-09-09T05:53:51Z
+collectedAt: 2026-09-09T20:12:51Z
 loc:
   C:
     code: 267672

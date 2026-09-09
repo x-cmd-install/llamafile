@@ -67,7 +67,7 @@
       "state": "uploaded",
       "size": 74031402,
       "digest": "sha256:874e2072f4f9efdf10ef839f04ba1c3e3e431ceb505fe3896f057f336941b28f",
-      "download_count": 3785,
+      "download_count": 3890,
       "created_at": "2026-08-01T07:16:05Z",
       "updated_at": "2026-08-01T07:17:10Z",
       "browser_download_url": "https://github.com/mozilla-ai/llamafile/releases/download/0.10.5/diffusionfile-0.10.5"
@@ -103,7 +103,7 @@
       "state": "uploaded",
       "size": 350768862,
       "digest": "sha256:417bcc3348cd5162c2751812fc0ea2f6e79e89e7be6f17e8401ed95de2ed4246",
-      "download_count": 34952,
+      "download_count": 35434,
       "created_at": "2026-08-01T07:17:10Z",
       "updated_at": "2026-08-01T07:21:55Z",
       "browser_download_url": "https://github.com/mozilla-ai/llamafile/releases/download/0.10.5/llamafile-0.10.5"
@@ -139,7 +139,7 @@
       "state": "uploaded",
       "size": 42328074,
       "digest": "sha256:55c69c1be9d6ad2172e2d1c0acc677a60ea8ff60232009a8c8170f5bcb917611",
-      "download_count": 1230,
+      "download_count": 1250,
       "created_at": "2026-08-01T07:21:55Z",
       "updated_at": "2026-08-01T07:22:36Z",
       "browser_download_url": "https://github.com/mozilla-ai/llamafile/releases/download/0.10.5/llamafile-0.10.5-thin"
@@ -175,7 +175,7 @@
       "state": "uploaded",
       "size": 268098251,
       "digest": "sha256:54f4d4ae96d8def8564ad78d09596e24d8a4657f4aa6f904d0a46b385d589648",
-      "download_count": 2425,
+      "download_count": 2473,
       "created_at": "2026-08-01T07:22:36Z",
       "updated_at": "2026-08-01T07:25:45Z",
       "browser_download_url": "https://github.com/mozilla-ai/llamafile/releases/download/0.10.5/llamafile-0.10.5.zip"
@@ -211,7 +211,7 @@
       "state": "uploaded",
       "size": 7638327,
       "digest": "sha256:887ff1c38f6c0c82433d18718c220606ed9c639ea170b5e52f0af6f2d19ee959",
-      "download_count": 499,
+      "download_count": 507,
       "created_at": "2026-08-01T07:25:45Z",
       "updated_at": "2026-08-01T07:25:58Z",
       "browser_download_url": "https://github.com/mozilla-ai/llamafile/releases/download/0.10.5/transcribefile-0.10.5"
@@ -247,7 +247,7 @@
       "state": "uploaded",
       "size": 5450323,
       "digest": "sha256:c468f5507b9f50d7ff834a9ada5122e16b59323dce4c7a2f62f62b867707d68d",
-      "download_count": 1017,
+      "download_count": 1027,
       "created_at": "2026-08-01T07:25:58Z",
       "updated_at": "2026-08-01T07:26:04Z",
       "browser_download_url": "https://github.com/mozilla-ai/llamafile/releases/download/0.10.5/whisperfile-0.10.5"
@@ -283,7 +283,7 @@
       "state": "uploaded",
       "size": 851513,
       "digest": "sha256:7eac59c658226027b365d92131babf06341f746fb20c0db33115bbdf5c5c6c4b",
-      "download_count": 315,
+      "download_count": 320,
       "created_at": "2026-08-01T07:26:04Z",
       "updated_at": "2026-08-01T07:26:10Z",
       "browser_download_url": "https://github.com/mozilla-ai/llamafile/releases/download/0.10.5/zipalign-0.10.5"
@@ -295,13 +295,13 @@
   "discussion_url": "https://github.com/mozilla-ai/llamafile/discussions/1041",
   "reactions": {
     "url": "https://api.github.com/repos/mozilla-ai/llamafile/releases/363447679/reactions",
-    "total_count": 27,
+    "total_count": 29,
     "+1": 5,
     "-1": 0,
     "laugh": 0,
-    "hooray": 19,
+    "hooray": 20,
     "confused": 0,
-    "heart": 1,
+    "heart": 2,
     "rocket": 2,
     "eyes": 0
   },
