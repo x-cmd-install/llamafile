@@ -67,7 +67,7 @@
       "state": "uploaded",
       "size": 74031402,
       "digest": "sha256:874e2072f4f9efdf10ef839f04ba1c3e3e431ceb505fe3896f057f336941b28f",
-      "download_count": 4030,
+      "download_count": 4032,
       "created_at": "2026-08-01T07:16:05Z",
       "updated_at": "2026-08-01T07:17:10Z",
       "browser_download_url": "https://github.com/mozilla-ai/llamafile/releases/download/0.10.5/diffusionfile-0.10.5"
@@ -103,7 +103,7 @@
       "state": "uploaded",
       "size": 350768862,
       "digest": "sha256:417bcc3348cd5162c2751812fc0ea2f6e79e89e7be6f17e8401ed95de2ed4246",
-      "download_count": 36131,
+      "download_count": 36135,
       "created_at": "2026-08-01T07:17:10Z",
       "updated_at": "2026-08-01T07:21:55Z",
       "browser_download_url": "https://github.com/mozilla-ai/llamafile/releases/download/0.10.5/llamafile-0.10.5"
