@@ -14,7 +14,7 @@ x install llamafile
 
 ## Code insight
 
-Total: **333,944** lines of code across **412** files in the top 5 languages.
+Total: **334,039** lines of code across **412** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
@@ -22,7 +22,7 @@ Total: **333,944** lines of code across **412** files in the top 5 languages.
 | CHeader | 29,254 | 24,275 | 5,067 | 139 |
 | Cpp | 24,061 | 4,331 | 2,595 | 135 |
 | Bitbake | 3,578 | 450 | 578 | 4 |
-| Python | 2,779 | 114 | 562 | 17 |
+| Python | 2,868 | 116 | 570 | 17 |
 
 ## Source
 
@@ -33,16 +33,16 @@ Total: **333,944** lines of code across **412** files in the top 5 languages.
 ## Release
 
 - **Latest**: `0.10.5` (2026-08-03)
-- **Last commit**: 2026-09-08
+- **Last commit**: 2026-09-11
 - **Assets in release**: 7
 
 ## Popularity
 
-- **Stars**: 25,941 · **Forks**: 1,592 · **Open issues**: 603 · **Contributors**: 87
+- **Stars**: 25,951 · **Forks**: 1,592 · **Open issues**: 603 · **Contributors**: 87
 
 ## Totals (cumulative)
 
-- **Releases**: 42 · **Merged PRs**: 200 · **Open PRs**: 22 · **Closed issues**: 413 · **Open issues**: 190 · **Commits**: 863
+- **Releases**: 42 · **Merged PRs**: 202 · **Open PRs**: 22 · **Closed issues**: 413 · **Open issues**: 190 · **Commits**: 865
 
 ## Recent activity
 
@@ -80,4 +80,4 @@ Install metadata for llamafile lives in the [x-cmd/install](https://github.com/x
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260911.yml` · 2026-09-11T05:59:13Z._
+_Snapshot: `data/card/260911.yml` · 2026-09-11T18:52:42Z._
