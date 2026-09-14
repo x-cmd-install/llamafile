@@ -38,22 +38,22 @@ Total: **334,039** lines of code across **412** files in the top 5 languages.
 
 ## Popularity
 
-- **Stars**: 25,958 · **Forks**: 1,594 · **Open issues**: 603 · **Contributors**: 87
+- **Stars**: 25,964 · **Forks**: 1,594 · **Open issues**: 603 · **Contributors**: 87
 
 ## Totals (cumulative)
 
-- **Releases**: 42 · **Merged PRs**: 202 · **Open PRs**: 22 · **Closed issues**: 413 · **Open issues**: 190 · **Commits**: 865
+- **Releases**: 42 · **Merged PRs**: 202 · **Open PRs**: 23 · **Closed issues**: 413 · **Open issues**: 190 · **Commits**: 865
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-14 | 0 | 0 | 0 | 0 | 0 | 0 |
-| last60d | 2026-07-15 | 2 | 0 | 0 | 0 | 0 | 0 |
-| 90d | 2026-06-15 | 2 | 0 | 0 | 0 | 0 | 0 |
-| last180d | 2026-03-17 | 6 | 0 | 0 | 0 | 0 | 0 |
-| 360d | 2025-09-18 | 6 | 0 | 0 | 0 | 0 | 0 |
-| last720d | 2024-09-23 | 14 | 0 | 0 | 0 | 0 | 0 |
+| 30d | 2026-08-15 | 0 | 0 | 0 | 0 | 0 | 0 |
+| last60d | 2026-07-16 | 2 | 0 | 0 | 0 | 0 | 0 |
+| 90d | 2026-06-16 | 2 | 0 | 0 | 0 | 0 | 0 |
+| last180d | 2026-03-18 | 6 | 0 | 0 | 0 | 0 | 0 |
+| 360d | 2025-09-19 | 6 | 0 | 0 | 0 | 0 | 0 |
+| last720d | 2024-09-24 | 14 | 0 | 0 | 0 | 0 | 0 |
 
 ## Release assets
 
@@ -67,10 +67,6 @@ Total: **334,039** lines of code across **412** files in the top 5 languages.
 | [whisperfile-0.10.5](https://github.com/Mozilla-Ocho/llamafile/releases/download/0.10.5/whisperfile-0.10.5) | 5.2 MiB | `other` |
 | [zipalign-0.10.5](https://github.com/Mozilla-Ocho/llamafile/releases/download/0.10.5/zipalign-0.10.5) | 831.6 KiB | `other` |
 
-## Distribution status
-
-Reported by **6** distros on [repology.org](https://repology.org/project/llamafile). **5** are ✅ on the latest upstream release, **0** are ⚠️ on an older version.
-
 ## Improve this data
 
 Install metadata for llamafile lives in the [x-cmd/install](https://github.com/x-cmd/install) index — a curated YAML package list that x-cmd consumes at install time. If `llamafile` is missing, out of date, or installs incorrectly, please open an issue or PR there:
@@ -80,4 +76,4 @@ Install metadata for llamafile lives in the [x-cmd/install](https://github.com/x
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260913.yml` · 2026-09-13T06:03:17Z._
+_Snapshot: `data/card/260914.yml` · 2026-09-14T06:06:48Z._
