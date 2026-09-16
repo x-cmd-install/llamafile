@@ -14,7 +14,7 @@ x install llamafile
 
 ## Code insight
 
-Total: **334,039** lines of code across **412** files in the top 5 languages.
+Total: **334,092** lines of code across **412** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
@@ -32,40 +32,40 @@ Total: **334,039** lines of code across **412** files in the top 5 languages.
 
 ## Release
 
-- **Latest**: `0.10.5` (2026-08-03)
-- **Last commit**: 2026-09-11
+- **Latest**: `0.10.6` (2026-09-15)
+- **Last commit**: 2026-09-15
 - **Assets in release**: 7
 
 ## Popularity
 
-- **Stars**: 25,970 · **Forks**: 1,592 · **Open issues**: 603 · **Contributors**: 87
+- **Stars**: 25,971 · **Forks**: 1,592 · **Open issues**: 603 · **Contributors**: 87
 
 ## Totals (cumulative)
 
-- **Releases**: 42 · **Merged PRs**: 202 · **Open PRs**: 23 · **Closed issues**: 413 · **Open issues**: 190 · **Commits**: 865
+- **Releases**: 43 · **Merged PRs**: 204 · **Open PRs**: 23 · **Closed issues**: 413 · **Open issues**: 190 · **Commits**: 867
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-16 | 0 | 0 | 0 | 0 | 0 | 0 |
-| last60d | 2026-07-17 | 1 | 0 | 0 | 0 | 0 | 0 |
-| 90d | 2026-06-17 | 2 | 0 | 0 | 0 | 0 | 0 |
-| last180d | 2026-03-19 | 6 | 0 | 0 | 0 | 0 | 0 |
-| 360d | 2025-09-20 | 6 | 0 | 0 | 0 | 0 | 0 |
-| last720d | 2024-09-25 | 14 | 0 | 0 | 0 | 0 | 0 |
+| 30d | 2026-08-17 | 1 | 0 | 0 | 0 | 0 | 0 |
+| last60d | 2026-07-18 | 2 | 0 | 0 | 0 | 0 | 0 |
+| 90d | 2026-06-18 | 3 | 0 | 0 | 0 | 0 | 0 |
+| last180d | 2026-03-20 | 6 | 0 | 0 | 0 | 0 | 0 |
+| 360d | 2025-09-21 | 7 | 0 | 0 | 0 | 0 | 0 |
+| last720d | 2024-09-26 | 15 | 0 | 0 | 0 | 0 | 0 |
 
 ## Release assets
 
 | Asset | Size | Target |
 |-------|-----:|--------|
-| [diffusionfile-0.10.5](https://github.com/Mozilla-Ocho/llamafile/releases/download/0.10.5/diffusionfile-0.10.5) | 70.6 MiB | `other` |
-| [llamafile-0.10.5](https://github.com/Mozilla-Ocho/llamafile/releases/download/0.10.5/llamafile-0.10.5) | 334.5 MiB | `other` |
-| [llamafile-0.10.5-thin](https://github.com/Mozilla-Ocho/llamafile/releases/download/0.10.5/llamafile-0.10.5-thin) | 40.4 MiB | `other` |
-| [llamafile-0.10.5.zip](https://github.com/Mozilla-Ocho/llamafile/releases/download/0.10.5/llamafile-0.10.5.zip) | 255.7 MiB | `other` |
-| [transcribefile-0.10.5](https://github.com/Mozilla-Ocho/llamafile/releases/download/0.10.5/transcribefile-0.10.5) | 7.3 MiB | `other` |
-| [whisperfile-0.10.5](https://github.com/Mozilla-Ocho/llamafile/releases/download/0.10.5/whisperfile-0.10.5) | 5.2 MiB | `other` |
-| [zipalign-0.10.5](https://github.com/Mozilla-Ocho/llamafile/releases/download/0.10.5/zipalign-0.10.5) | 831.6 KiB | `other` |
+| [diffusionfile-0.10.6](https://github.com/Mozilla-Ocho/llamafile/releases/download/0.10.6/diffusionfile-0.10.6) | 70.5 MiB | `other` |
+| [llamafile-0.10.6](https://github.com/Mozilla-Ocho/llamafile/releases/download/0.10.6/llamafile-0.10.6) | 351.0 MiB | `other` |
+| [llamafile-0.10.6-thin](https://github.com/Mozilla-Ocho/llamafile/releases/download/0.10.6/llamafile-0.10.6-thin) | 41.8 MiB | `other` |
+| [llamafile-0.10.6.zip](https://github.com/Mozilla-Ocho/llamafile/releases/download/0.10.6/llamafile-0.10.6.zip) | 261.0 MiB | `other` |
+| [transcribefile-0.10.6](https://github.com/Mozilla-Ocho/llamafile/releases/download/0.10.6/transcribefile-0.10.6) | 7.3 MiB | `other` |
+| [whisperfile-0.10.6](https://github.com/Mozilla-Ocho/llamafile/releases/download/0.10.6/whisperfile-0.10.6) | 5.2 MiB | `other` |
+| [zipalign-0.10.6](https://github.com/Mozilla-Ocho/llamafile/releases/download/0.10.6/zipalign-0.10.6) | 831.6 KiB | `other` |
 
 ## Improve this data
 
@@ -76,4 +76,4 @@ Install metadata for llamafile lives in the [x-cmd/install](https://github.com/x
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260915.yml` · 2026-09-15T06:22:00Z._
+_Snapshot: `data/card/260916.yml` · 2026-09-16T06:13:37Z._

@@ -14,7 +14,7 @@ x install llamafile
 
 ## 代码洞察
 
-合计: **334,039** 行代码（覆盖前 5 种语言、共 **412** 个文件）。
+合计: **334,092** 行代码（覆盖前 5 种语言、共 **412** 个文件）。
 
 | 语言 | 代码 | 注释 | 空行 | 文件数 |
 |------|-----:|-----:|-----:|------:|
@@ -32,40 +32,40 @@ x install llamafile
 
 ## 发布
 
-- **最新版本**: `0.10.5` (2026-08-03)
-- **最近提交**: 2026-09-11
+- **最新版本**: `0.10.6` (2026-09-15)
+- **最近提交**: 2026-09-15
 - **Release 含资产**: 7 个
 
 ## 流行度
 
-- **Star**: 25,970 · **Fork**: 1,592 · **开放 issue**: 603 · **贡献者**: 87
+- **Star**: 25,971 · **Fork**: 1,592 · **开放 issue**: 603 · **贡献者**: 87
 
 ## 累计统计
 
-- **发布数**: 42 · **已合并 PR**: 202 · **开放 PR**: 23 · **已关闭 issue**: 413 · **开放 issue**: 190 · **提交数**: 865
+- **发布数**: 43 · **已合并 PR**: 204 · **开放 PR**: 23 · **已关闭 issue**: 413 · **开放 issue**: 190 · **提交数**: 867
 
 ## 最近活动
 
 | 时间窗口 | 起始 | 发布 | 已合并 PR | 开放 PR | 已关闭 issue | 开放 issue | 提交 |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-16 | 0 | 0 | 0 | 0 | 0 | 0 |
-| last60d | 2026-07-17 | 1 | 0 | 0 | 0 | 0 | 0 |
-| 90d | 2026-06-17 | 2 | 0 | 0 | 0 | 0 | 0 |
-| last180d | 2026-03-19 | 6 | 0 | 0 | 0 | 0 | 0 |
-| 360d | 2025-09-20 | 6 | 0 | 0 | 0 | 0 | 0 |
-| last720d | 2024-09-25 | 14 | 0 | 0 | 0 | 0 | 0 |
+| 30d | 2026-08-17 | 1 | 0 | 0 | 0 | 0 | 0 |
+| last60d | 2026-07-18 | 2 | 0 | 0 | 0 | 0 | 0 |
+| 90d | 2026-06-18 | 3 | 0 | 0 | 0 | 0 | 0 |
+| last180d | 2026-03-20 | 6 | 0 | 0 | 0 | 0 | 0 |
+| 360d | 2025-09-21 | 7 | 0 | 0 | 0 | 0 | 0 |
+| last720d | 2024-09-26 | 15 | 0 | 0 | 0 | 0 | 0 |
 
 ## Release 资产
 
 | 资产 | 大小 | 目标平台 |
 |------|-----:|----------|
-| [diffusionfile-0.10.5](https://github.com/Mozilla-Ocho/llamafile/releases/download/0.10.5/diffusionfile-0.10.5) | 70.6 MiB | `other` |
-| [llamafile-0.10.5](https://github.com/Mozilla-Ocho/llamafile/releases/download/0.10.5/llamafile-0.10.5) | 334.5 MiB | `other` |
-| [llamafile-0.10.5-thin](https://github.com/Mozilla-Ocho/llamafile/releases/download/0.10.5/llamafile-0.10.5-thin) | 40.4 MiB | `other` |
-| [llamafile-0.10.5.zip](https://github.com/Mozilla-Ocho/llamafile/releases/download/0.10.5/llamafile-0.10.5.zip) | 255.7 MiB | `other` |
-| [transcribefile-0.10.5](https://github.com/Mozilla-Ocho/llamafile/releases/download/0.10.5/transcribefile-0.10.5) | 7.3 MiB | `other` |
-| [whisperfile-0.10.5](https://github.com/Mozilla-Ocho/llamafile/releases/download/0.10.5/whisperfile-0.10.5) | 5.2 MiB | `other` |
-| [zipalign-0.10.5](https://github.com/Mozilla-Ocho/llamafile/releases/download/0.10.5/zipalign-0.10.5) | 831.6 KiB | `other` |
+| [diffusionfile-0.10.6](https://github.com/Mozilla-Ocho/llamafile/releases/download/0.10.6/diffusionfile-0.10.6) | 70.5 MiB | `other` |
+| [llamafile-0.10.6](https://github.com/Mozilla-Ocho/llamafile/releases/download/0.10.6/llamafile-0.10.6) | 351.0 MiB | `other` |
+| [llamafile-0.10.6-thin](https://github.com/Mozilla-Ocho/llamafile/releases/download/0.10.6/llamafile-0.10.6-thin) | 41.8 MiB | `other` |
+| [llamafile-0.10.6.zip](https://github.com/Mozilla-Ocho/llamafile/releases/download/0.10.6/llamafile-0.10.6.zip) | 261.0 MiB | `other` |
+| [transcribefile-0.10.6](https://github.com/Mozilla-Ocho/llamafile/releases/download/0.10.6/transcribefile-0.10.6) | 7.3 MiB | `other` |
+| [whisperfile-0.10.6](https://github.com/Mozilla-Ocho/llamafile/releases/download/0.10.6/whisperfile-0.10.6) | 5.2 MiB | `other` |
+| [zipalign-0.10.6](https://github.com/Mozilla-Ocho/llamafile/releases/download/0.10.6/zipalign-0.10.6) | 831.6 KiB | `other` |
 
 ## 改进这些数据
 
@@ -76,4 +76,4 @@ llamafile 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/install
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/260915.yml` · 2026-09-15T06:22:01Z._
+_数据快照: `data/card/260916.yml` · 2026-09-16T06:13:38Z._
