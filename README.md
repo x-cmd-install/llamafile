@@ -33,27 +33,27 @@ Total: **334,092** lines of code across **412** files in the top 5 languages.
 ## Release
 
 - **Latest**: `0.10.6` (2026-09-15)
-- **Last commit**: 2026-09-15
+- **Last commit**: 2026-09-16
 - **Assets in release**: 7
 
 ## Popularity
 
-- **Stars**: 25,971 · **Forks**: 1,592 · **Open issues**: 603 · **Contributors**: 87
+- **Stars**: 25,978 · **Forks**: 1,596 · **Open issues**: 603 · **Contributors**: 87
 
 ## Totals (cumulative)
 
-- **Releases**: 43 · **Merged PRs**: 204 · **Open PRs**: 23 · **Closed issues**: 413 · **Open issues**: 190 · **Commits**: 867
+- **Releases**: 43 · **Merged PRs**: 205 · **Open PRs**: 22 · **Closed issues**: 413 · **Open issues**: 190 · **Commits**: 868
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-17 | 1 | 0 | 0 | 0 | 0 | 0 |
-| last60d | 2026-07-18 | 2 | 0 | 0 | 0 | 0 | 0 |
-| 90d | 2026-06-18 | 3 | 0 | 0 | 0 | 0 | 0 |
-| last180d | 2026-03-20 | 6 | 0 | 0 | 0 | 0 | 0 |
-| 360d | 2025-09-21 | 7 | 0 | 0 | 0 | 0 | 0 |
-| last720d | 2024-09-26 | 15 | 0 | 0 | 0 | 0 | 0 |
+| 30d | 2026-08-18 | 1 | 0 | 0 | 0 | 0 | 0 |
+| last60d | 2026-07-19 | 2 | 0 | 0 | 0 | 0 | 0 |
+| 90d | 2026-06-19 | 3 | 0 | 0 | 0 | 0 | 0 |
+| last180d | 2026-03-21 | 6 | 0 | 0 | 0 | 0 | 0 |
+| 360d | 2025-09-22 | 7 | 0 | 0 | 0 | 0 | 0 |
+| last720d | 2024-09-27 | 15 | 0 | 0 | 0 | 0 | 0 |
 
 ## Release assets
 
@@ -76,4 +76,4 @@ Install metadata for llamafile lives in the [x-cmd/install](https://github.com/x
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260916.yml` · 2026-09-16T06:13:37Z._
+_Snapshot: `data/card/260917.yml` · 2026-09-17T06:26:41Z._
