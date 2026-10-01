@@ -14,13 +14,13 @@ x install llamafile
 
 ## Code insight
 
-Total: **334,092** lines of code across **412** files in the top 5 languages.
+Total: **334,351** lines of code across **412** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
-| C | 267,672 | 95,387 | 23,096 | 117 |
+| C | 267,635 | 95,397 | 23,077 | 117 |
 | CHeader | 29,254 | 24,275 | 5,067 | 139 |
-| Cpp | 24,061 | 4,331 | 2,595 | 135 |
+| Cpp | 24,104 | 4,343 | 2,600 | 135 |
 | Bitbake | 3,578 | 450 | 578 | 4 |
 | Python | 2,868 | 116 | 570 | 17 |
 
@@ -33,27 +33,27 @@ Total: **334,092** lines of code across **412** files in the top 5 languages.
 ## Release
 
 - **Latest**: `0.10.6` (2026-09-15)
-- **Last commit**: 2026-09-16
+- **Last commit**: 2026-09-30
 - **Assets in release**: 7
 
 ## Popularity
 
-- **Stars**: 26,101 · **Forks**: 1,626 · **Open issues**: 605 · **Contributors**: 85
+- **Stars**: 26,136 · **Forks**: 1,631 · **Open issues**: 605 · **Contributors**: 85
 
 ## Totals (cumulative)
 
-- **Releases**: 43 · **Merged PRs**: 205 · **Open PRs**: 24 · **Closed issues**: 415 · **Open issues**: 190 · **Commits**: 868
+- **Releases**: 43 · **Merged PRs**: 206 · **Open PRs**: 24 · **Closed issues**: 415 · **Open issues**: 190 · **Commits**: 869
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-31 | 1 | 0 | 0 | 0 | 0 | 0 |
-| last60d | 2026-08-01 | 2 | 0 | 0 | 0 | 0 | 0 |
-| 90d | 2026-07-02 | 3 | 0 | 0 | 0 | 0 | 0 |
-| last180d | 2026-04-03 | 6 | 0 | 0 | 0 | 0 | 0 |
-| 360d | 2025-10-05 | 7 | 0 | 0 | 0 | 0 | 0 |
-| last720d | 2024-10-10 | 15 | 0 | 0 | 0 | 0 | 0 |
+| 30d | 2026-09-01 | 1 | 0 | 0 | 0 | 0 | 0 |
+| last60d | 2026-08-02 | 2 | 0 | 0 | 0 | 0 | 0 |
+| 90d | 2026-07-03 | 3 | 0 | 0 | 0 | 0 | 0 |
+| last180d | 2026-04-04 | 6 | 0 | 0 | 0 | 0 | 0 |
+| 360d | 2025-10-06 | 7 | 0 | 0 | 0 | 0 | 0 |
+| last720d | 2024-10-11 | 15 | 0 | 0 | 0 | 0 | 0 |
 
 ## Release assets
 
@@ -76,4 +76,4 @@ Install metadata for llamafile lives in the [x-cmd/install](https://github.com/x
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260930.yml` · 2026-09-30T06:36:45Z._
+_Snapshot: `data/card/261001.yml` · 2026-10-01T07:00:24Z._
