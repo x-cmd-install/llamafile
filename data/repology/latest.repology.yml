@@ -2,9 +2,9 @@
   srcname: llamafile
   binname: llamafile
   visiblename: llamafile
-  version: 0.10.5
-  origversion: 0.10.5-1
-  status: outdated
+  version: 0.10.6
+  origversion: 0.10.6-1
+  status: newest
   summary: Distribute and run LLMs with a single file
   maintainers:
     - maintuner@aur
@@ -14,9 +14,9 @@
   srcname: llamafile-bin
   binname: llamafile-bin
   visiblename: llamafile-bin
-  version: 0.10.5
-  origversion: 0.10.5-1
-  status: outdated
+  version: 0.10.6
+  origversion: 0.10.6-1
+  status: newest
   summary: Distribute and run LLMs with a single file
   maintainers:
     - maintuner@aur
