@@ -38,7 +38,7 @@ Total: **336,442** lines of code across **425** files in the top 5 languages.
 
 ## Popularity
 
-- **Stars**: 26,493 · **Forks**: 1,666 · **Open issues**: 608 · **Contributors**: 85
+- **Stars**: 26,505 · **Forks**: 1,668 · **Open issues**: 608 · **Contributors**: 85
 
 ## Totals (cumulative)
 
@@ -48,12 +48,12 @@ Total: **336,442** lines of code across **425** files in the top 5 languages.
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-27 | 0 | 0 | 0 | 0 | 0 | 0 |
-| last60d | 2026-08-28 | 1 | 0 | 0 | 0 | 0 | 0 |
-| 90d | 2026-07-29 | 2 | 0 | 0 | 0 | 0 | 0 |
-| last180d | 2026-04-30 | 6 | 0 | 0 | 0 | 0 | 0 |
-| 360d | 2025-11-01 | 7 | 0 | 0 | 0 | 0 | 0 |
-| last720d | 2024-11-06 | 12 | 0 | 0 | 0 | 0 | 0 |
+| 30d | 2026-09-28 | 0 | 0 | 0 | 0 | 0 | 0 |
+| last60d | 2026-08-29 | 1 | 0 | 0 | 0 | 0 | 0 |
+| 90d | 2026-07-30 | 2 | 0 | 0 | 0 | 0 | 0 |
+| last180d | 2026-05-01 | 6 | 0 | 0 | 0 | 0 | 0 |
+| 360d | 2025-11-02 | 7 | 0 | 0 | 0 | 0 | 0 |
+| last720d | 2024-11-07 | 12 | 0 | 0 | 0 | 0 | 0 |
 
 ## Release assets
 
@@ -80,4 +80,4 @@ Install metadata for llamafile lives in the [x-cmd/install](https://github.com/x
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261027.yml` · 2026-10-27T05:57:38Z._
+_Snapshot: `data/card/261028.yml` · 2026-10-28T06:42:41Z._
