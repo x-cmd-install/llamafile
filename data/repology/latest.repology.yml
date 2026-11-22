@@ -64,4 +64,4 @@
   status: newest
   summary: software that simplifies distributing and using large language models on consumer-grade hardware and on multiple operating systems
   licenses:
-    - Apache Software License 2.0
+    - Apache License 2.0
